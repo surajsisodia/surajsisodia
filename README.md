@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey, I'm Suraj Sisodia! 🤟 <img align="right" src="https://komarev.com/ghpvc/?username=Yash7818&style=flat-square" />
 
 <!--
 **surajsisodia/surajsisodia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

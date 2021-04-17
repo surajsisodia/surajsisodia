@@ -5,7 +5,7 @@
 
 🧑‍🎓  A sophomore at Indian Institute of Information Technology Surat
 
-<b>Languages and Tools</b>
+<b>🛠️ Languages and Tools</b>
 
 ![Android](https://img.shields.io/badge/Android%20-222222.svg?&style=flat&logo=android&logoColor=green)
 ![Flutter](https://img.shields.io/badge/Flutter%20-222222.svg?&style=flat&logo=flutter&logoColor=2cb7f6)
@@ -41,6 +41,26 @@
 <a href="https://github.com/surajsisodia/GlowCal-Flutter-GDSC-2021">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=surajsisodia&repo=GlowCal-Flutter-GDSC-2021&theme=algolia" />
 </a>
+</br>
+</br>
+
+<b>🌐 Find me elsewhere:<b>
+
+<a href="https://www.linkedin.com/in/ss26/">
+<img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/the.hustler___/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://twitter.com/marcos_suraj">
+<img src="https://img.shields.io/badge/Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.facebook.com/suraj26sisodia/">
+<img src="https://img.shields.io/badge/Facebook-2d88ff?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="mailto:sisodiasuraj2000@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+
+
+
+
 </br>
 </br>
 <i>PS: Personal Portolio site coming soon</i>

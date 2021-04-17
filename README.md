@@ -26,16 +26,17 @@
 ![GIMP](https://img.shields.io/badge/-GIMP-222222?style=flat&logo=gimp&logoColor=white)
 ![MATERIAL-UI](https://img.shields.io/badge/-Material%20UI-222222?style=flat&logo=material-ui&logoColor=2196f3)
 
-
+<div>
   <img  align="center" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=surajsisodia&count_private=true&show_icons=true&theme=algolia&include_all_commits=true" />
 
 
   <img align="right" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=surajsisodia&hide=c%2B%2B,swift,javascript&theme=algolia&la" />
+</div>
 
 </br>
 </br>
 
-<b>Top Projects</b>
+<b>💻 Top Projects</b>
 
 <a href="https://github.com/surajsisodia/GlowCal-Flutter-GDSC-2021">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=surajsisodia&repo=GlowCal-Flutter-GDSC-2021&theme=algolia" />
